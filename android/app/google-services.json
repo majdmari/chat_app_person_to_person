@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925010064558",
+    "project_id": "chatapptute-27857",
+    "storage_bucket": "chatapptute-27857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925010064558:android:5a86d033ce40d37efc293f",
+        "android_client_info": {
+          "package_name": "com.majdmari.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NiRjc86si75B8V5X9haguPj9Ykncz30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
